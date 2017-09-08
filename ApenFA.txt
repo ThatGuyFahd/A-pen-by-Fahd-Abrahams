@@ -1,0 +1,36 @@
+<div class="container">
+  <div class="row">
+    <div class="col-xs-10">
+      <h1 class="text-center">Nelson Mandela</h1>
+      <h2 class="text-center"><em>Madiba</em></h2>
+      <div class="thumbnail"><img src="http://news.bbcimg.co.uk/media/images/71568000/jpg/_71568025_71568012.jpg">
+        <div class="caption text-center">To those who observed him closely, Nelson Mandela always carried himself as one who was born to lead.</div>
+      </div>
+      <div class="col-xs-10 col-sm-8 col-sm-offset-1 col-md-6 col-md-offset-2">
+        <h3>Below is a timeline of Mr.Nelson Mandela's life events</h3>
+        <ul>
+          <li><strong>1918</strong> - Born 18 July in Mvezu, Umtata</li>
+          <li><strong>1933</strong> - Began his secondary schooling at Clarkebury Methodist High school</li>
+          <li><strong>1941</strong> - Arrived in Johannesburg</li>
+          <li><strong>1943</strong> - Starting studying at University of Witwatersrand</li>
+          <li><strong>1950</strong> - Was elected as president of the ANCYL</li>
+          <li><strong>1955</strong> - Freedom Charter is drafted.</li>
+          <li><strong>1961</strong> - Mandela co-founded Umkhonto we Sizwe (as known as MK) together with Walter Sisulu and Joe Slovo.</li>
+          <li><strong>
+            <li><strong>1963</strong> - Rivonia trial,sentenced to life imprisonment as opposed to instead have been given the death penalty.</li>
+            <li><strong>1964</strong> - Mandela transferred from Pretoria to Robben Island, in lived there for the next 18 years.</li>
+            <li><strong>1982</strong> - Transferred to Pollsmoor prison.</li>
+            <li><strong>1988</strong> - Transferred to Victor Verster</li>
+            </ul>
+            <blockquote><p>Madiba left prison in 1990, walked freely hand in hand with his beloved 'Winnie'</p><footer><cite>"The end of Apartheid!"</cite></footer></blockquote>
+            <h3>To read more about Madiba and his great life, click the link.<a href="https://en.wikipedia.org/wiki/Nelson_Mandela">Wikipedia</a>.
+            </h3>
+          </div>
+      </div>
+    </div>
+  </div>
+  <footer class="text-center">
+    <hr>
+    <p>Written and coded by<a href="https://twitter.com/ThatGuyFahd" target="_blank">ThatGuyFahd</a>.</p>
+  </footer>
+</div>
